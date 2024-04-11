@@ -1,6 +1,8 @@
 Mental Health Analysis
 
 Welcome to the Mental Health Analysis project repository! This project is dedicated to understanding and analyzing mental health trends through the lens of demographic and occupational factors.
+
+
 Overview
 
 Mental health is a cornerstone of overall well-being, influencing every aspect of our lives. This project delves into a comprehensive dataset encompassing various demographic variables, including gender, country, occupation, and more. By leveraging data analysis and visualization techniques, we aim to uncover meaningful patterns and insights into mental health issues.
@@ -11,6 +13,7 @@ Key Features
     Visualization: Present findings through visually engaging and informative visualizations.
     Impactful Insights: Gain a deeper understanding of mental health trends and their implications.
     Empowering Decision-Making: Equip stakeholders with evidence-based insights to inform mental health support strategies.
+    
 
 Let's Collaborate!
 
